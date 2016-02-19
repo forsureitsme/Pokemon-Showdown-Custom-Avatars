@@ -1,0 +1,22 @@
+/* Duplicate a line below and edit the username for each new user */
+.trainersprite[username="forsureitsme"],
+.trainersprite[username="garbodorking"]
+{
+    padding: 40px !important;
+    width: 0px !important;
+    height: 0px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+
+/* Copy this declaration and edit the username and url for each new user */
+.trainersprite[username="forsureitsme"]
+{
+    background-image: url('http://fluffysstuff.weebly.com/uploads/3/7/6/1/37616123/1819277_orig.png') !important;
+}
+
+.trainersprite[username="garbodorking"]
+{
+    background-image: url('http://img14.deviantart.net/c2a4/i/2015/148/8/b/the_one_eyed_garbodor_by_katonator-d8v2mmh.png') !important;
+}
